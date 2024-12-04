@@ -1,9 +1,13 @@
 # Sign_Language_Detection_System
 
 Overview
+
+
 The Sign Language Detection System is a real-time application that uses computer vision and machine learning to recognize and translate sign language gestures into text. The system employs MediaPipe, OpenCV, and a pre-trained machine learning model to detect hand landmarks and predict sign language gestures.
 
 Prerequisites
+
+
 Python 3.11 or later.
 A webcam connected to your system.
 
